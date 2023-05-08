@@ -1,0 +1,34 @@
+body {
+  font-family: Roboto, sans-serif;
+  background-color: #f8f0ea;
+}
+
+header {
+  background-color: #c8a67f;
+}
+
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-link.active:hover{
+  color: #fff;
+}
+
+h1 {
+  color: #fff;
+}
+
+hr{
+  border: 3px solid  #c8a67f ;
+}
+
+h2, h3, button {
+  color: #b89369;
+  font-weight: bolder;
+}
+
+.btn-cor {
+  background-color: #c8a67f;
+  color: #fff;
+  font-weight: bolder;
+}
